@@ -6,7 +6,7 @@
 #### Class-03: [NestJS: Services](https://github.com/Omarmdwasimuddin/NestJS-Services)
 #### Class-04: [NestJS: Modules](https://github.com/Omarmdwasimuddin/NestJS-Module-s)
 #### Class-05: [NestJS: Dependency Injection](https://github.com/Omarmdwasimuddin/NestJS-Dependency-Injection)
-#### Class-06: [](https://github.com/Omarmdwasimuddin/NestJS-Create-REST-API-s)
+#### Class-06: [Create REST APIs with NestJS](https://github.com/Omarmdwasimuddin/NestJS-Create-REST-API-s)
 #### Class-07: []()
 #### Class-08: []()
 #### Class-09: []()
