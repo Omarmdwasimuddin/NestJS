@@ -11,3 +11,16 @@
 #### Class-08: []()
 #### Class-09: []()
 #### Class-10: []()
+
+
+---
+
+## Production
+#### []()
+
+---
+
+## Project setup
+#### [Next.js + NestJS Monorepo Project Setup](https://github.com/Omarmdwasimuddin/NextJS-NestJS-Project-Setup)
+
+---
