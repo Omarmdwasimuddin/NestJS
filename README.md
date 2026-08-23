@@ -20,6 +20,11 @@
 
 ---
 
+## Package Installation
+#### []()
+
+---
+
 ## Project setup
 #### [Next.js + NestJS Monorepo Project Setup](https://github.com/Omarmdwasimuddin/NextJS-NestJS-Project-Setup)
 
