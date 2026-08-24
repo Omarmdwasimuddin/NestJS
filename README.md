@@ -8,7 +8,7 @@
 #### Class-05: [NestJS: Dependency Injection](https://github.com/Omarmdwasimuddin/NestJS-Dependency-Injection)
 #### Class-06: [Create REST APIs with NestJS](https://github.com/Omarmdwasimuddin/NestJS-Create-REST-API-s)
 #### Class-07: [Data Transfer Object (DTO) & Interfaces](https://github.com/Omarmdwasimuddin/NestJS-Data-Transfer-Object-DTO-Interfaces)
-#### Class-08: []()
+#### Class-08: [Validate DTOs Using class-validator & class-transformer](https://github.com/Omarmdwasimuddin/NestJS-Validate-DTOs-Using-class-validator-class-transformer)
 #### Class-09: []()
 #### Class-10: []()
 
