@@ -11,7 +11,7 @@
 #### Class-08: [Validate DTOs Using class-validator & class-transformer](https://github.com/Omarmdwasimuddin/NestJS-Validate-DTOs-Using-class-validator-class-transformer)
 #### Class-09: [Create & Use Custom Pipes](https://github.com/Omarmdwasimuddin/NestJS-Create-Use-Custom-Pipes)
 #### Class-10: [How to Protect Routes using Guards](https://github.com/Omarmdwasimuddin/NestJS-How-to-Protect-Routes-using-Guards)
-#### Class-11: []()
+#### Class-11: [Role-Based Authorization](https://github.com/Omarmdwasimuddin/NestJS-Role-Based-Authorization)
 #### Class-12: []()
 #### Class-13: []()
 #### Class-14: []()
