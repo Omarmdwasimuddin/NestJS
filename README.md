@@ -13,7 +13,7 @@
 #### Class-10: [How to Protect Routes using Guards](https://github.com/Omarmdwasimuddin/NestJS-How-to-Protect-Routes-using-Guards)
 #### Class-11: [Role-Based Authorization](https://github.com/Omarmdwasimuddin/NestJS-Role-Based-Authorization)
 #### Class-12: [Exception Filters](https://github.com/Omarmdwasimuddin/NestJS-Exception-Filter-s)
-#### Class-13: []()
+#### Class-13: [Middleware](https://github.com/Omarmdwasimuddin/NestJS-Middleware-s)
 #### Class-14: []()
 #### Class-15: []()
 #### Class-16: []()
