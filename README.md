@@ -17,7 +17,7 @@
 #### Class-14: [Life Cycle Hooks](https://github.com/Omarmdwasimuddin/NestJS-Life-Cycle-Hooks)
 #### Class-15: [Environment Variables](https://github.com/Omarmdwasimuddin/NestJS-Environment-Variables)
 #### Class-16: [Connect NestJS App with MongoDB Atlas](https://github.com/Omarmdwasimuddin/Connect-NestJS-App-with-MongoDB-Atlas)
-#### Class-17: []()
+#### Class-17: [How to Create & Register Schema with Mongoose](https://github.com/Omarmdwasimuddin/How-to-Create-Register-Schema-with-Mongoose)
 #### Class-18: []()
 #### Class-19: []()
 #### Class-20: []()
