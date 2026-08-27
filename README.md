@@ -37,5 +37,6 @@
 
 ## Project setup
 #### [Next.js + NestJS Monorepo Project Setup](https://github.com/Omarmdwasimuddin/NextJS-NestJS-Project-Setup)
+#### [MongoDB Atlas Setup](https://github.com/Omarmdwasimuddin/mongodb-atlas)
 
 ---
