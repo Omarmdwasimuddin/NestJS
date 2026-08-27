@@ -19,7 +19,7 @@
 #### Class-16: [Connect NestJS App with MongoDB Atlas](https://github.com/Omarmdwasimuddin/Connect-NestJS-App-with-MongoDB-Atlas)
 #### Class-17: [How to Create & Register Schema with Mongoose](https://github.com/Omarmdwasimuddin/How-to-Create-Register-Schema-with-Mongoose)
 #### Class-18: [Get Data from MongoDB using find() & findById()](https://github.com/Omarmdwasimuddin/Get-Data-from-MongoDB-using-find-findById-)
-#### Class-19: []()
+#### Class-19: [Update MongoDB Data using PUT API & findByIdAndUpdate](https://github.com/Omarmdwasimuddin/Update-MongoDB-Data-using-PUT-API-findByIdAndUpdate)
 #### Class-20: []()
 #### Class-21: []()
 #### Class-22: []()
