@@ -22,7 +22,7 @@
 #### Class-19: [Update MongoDB Data using PUT API & findByIdAndUpdate](https://github.com/Omarmdwasimuddin/Update-MongoDB-Data-using-PUT-API-findByIdAndUpdate)
 #### Class-20: [Update MongoDB Data using PATCH API, DELETE & PUT](https://github.com/Omarmdwasimuddin/Update-MongoDB-Data-using-PATCH-API-DELETE-PUT)
 #### Class-21: [NestJS REST API with MongoDB CRUD](https://github.com/Omarmdwasimuddin/NestJS-Rest-API-with-MongoDB-CRUD)
-#### Class-22: []()
+#### Class-22: [One-to-One Relationship using Embedding in MongoDB](https://github.com/Omarmdwasimuddin/NestJS-One-to-One-Relationship-using-Embedding-in-MongoDB)
 #### Class-23: []()
 #### Class-24: []()
 #### Class-25: []()
