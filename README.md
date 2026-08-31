@@ -25,7 +25,7 @@
 #### Class-22: [One-to-One Relationship using Embedding in MongoDB](https://github.com/Omarmdwasimuddin/NestJS-One-to-One-Relationship-using-Embedding-in-MongoDB)
 #### Class-23: [One-to-One Relationship using Referencing in MongoDB](https://github.com/Omarmdwasimuddin/NestJS-One-to-One-Relationship-using-Referencing-in-MongoDB)
 #### Class-24: [One-to-Many Relationship using Embedding in MongoDB](https://github.com/Omarmdwasimuddin/One-to-Many-Relationship-using-Embedding-in-MongoDB)
-#### Class-25: []()
+#### Class-25: [One-to-Many Relationship using Referencing in MongoDB](https://github.com/Omarmdwasimuddin/One-to-Many-Relationship-using-Referencing-in-MongoDB)
 #### Class-26: []()
 #### Class-27: []()
 #### Class-28: []()
