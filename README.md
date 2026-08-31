@@ -24,7 +24,7 @@
 #### Class-21: [NestJS REST API with MongoDB CRUD](https://github.com/Omarmdwasimuddin/NestJS-Rest-API-with-MongoDB-CRUD)
 #### Class-22: [One-to-One Relationship using Embedding in MongoDB](https://github.com/Omarmdwasimuddin/NestJS-One-to-One-Relationship-using-Embedding-in-MongoDB)
 #### Class-23: [One-to-One Relationship using Referencing in MongoDB](https://github.com/Omarmdwasimuddin/NestJS-One-to-One-Relationship-using-Referencing-in-MongoDB)
-#### Class-24: []()
+#### Class-24: [One-to-Many Relationship using Embedding in MongoDB](https://github.com/Omarmdwasimuddin/One-to-Many-Relationship-using-Embedding-in-MongoDB)
 #### Class-25: []()
 #### Class-26: []()
 #### Class-27: []()
