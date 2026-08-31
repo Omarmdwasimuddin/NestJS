@@ -40,7 +40,7 @@
 #### Class-37: []()
 #### Class-38: []()
 #### Class-39: []()
-#### Class-40: []()
+#### Class-40: [CRUD generator](https://github.com/Omarmdwasimuddin/CRUD-generator)
 
 
 ---
