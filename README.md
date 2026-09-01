@@ -28,7 +28,7 @@
 #### Class-25: [One-to-Many Relationship using Referencing in MongoDB](https://github.com/Omarmdwasimuddin/One-to-Many-Relationship-using-Referencing-in-MongoDB)
 #### Class-26: [Many-to-Many Relationship using Referencing in MongoDB](https://github.com/Omarmdwasimuddin/Many-to-Many-Relationship-using-Referencing-in-MongoDB)
 #### Class-27: [Connect Supabase PostgreSQL with NestJS](https://github.com/Omarmdwasimuddin/Connect-Supabase-PostgreSQL-with-NestJS)
-#### Class-28: []()
+#### Class-28: [Insert Data into Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Insert-Data-into-Supabase-PostgreSQL)
 #### Class-29: []()
 #### Class-30: []()
 #### Class-31: []()
