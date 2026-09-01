@@ -30,7 +30,7 @@
 #### Class-27: [Connect Supabase PostgreSQL with NestJS](https://github.com/Omarmdwasimuddin/Connect-Supabase-PostgreSQL-with-NestJS)
 #### Class-28: [Insert Data into Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Insert-Data-into-Supabase-PostgreSQL)
 #### Class-29: [Fetch Data from Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Fetch-Data-from-Supabase-PostgreSQL)
-#### Class-30: []()
+#### Class-30: [search-by name, keyword, partial keyword]()
 #### Class-31: []()
 #### Class-32: []()
 #### Class-33: []()
