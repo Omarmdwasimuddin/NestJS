@@ -34,7 +34,7 @@
 #### Class-31: [Update Data in Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Update-Data-in-Supabase-PostgreSQL)
 #### Class-32: [Delete Data from Supabase PostgreSQL Database](https://github.com/Omarmdwasimuddin/Delete-Data-from-Supabase-PostgreSQL-Database)
 #### Class-33: [Filter & Search Data Using @Query()](https://github.com/Omarmdwasimuddin/Filter-Search-Data-Using-Query-)
-#### Class-34: []()
+#### Class-34: [NestJS REST API with SUPABASE CRUD](https://github.com/Omarmdwasimuddin/NestJS-REST-API-with-SUPABASE-CRUD)
 #### Class-35: []()
 #### Class-36: []()
 #### Class-37: []()
