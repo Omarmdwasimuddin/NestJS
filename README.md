@@ -31,7 +31,7 @@
 #### Class-28: [Insert Data into Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Insert-Data-into-Supabase-PostgreSQL)
 #### Class-29: [Fetch Data from Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Fetch-Data-from-Supabase-PostgreSQL)
 #### Class-30: [Search by Name, Keyword & Partial Keyword](https://github.com/Omarmdwasimuddin/search-by-name-keyword-partial-keyword)
-#### Class-31: []()
+#### Class-31: [Update Data in Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Update-Data-in-Supabase-PostgreSQL)
 #### Class-32: []()
 #### Class-33: []()
 #### Class-34: []()
