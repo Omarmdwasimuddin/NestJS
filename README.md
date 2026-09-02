@@ -33,7 +33,7 @@
 #### Class-30: [Search by Name, Keyword & Partial Keyword](https://github.com/Omarmdwasimuddin/search-by-name-keyword-partial-keyword)
 #### Class-31: [Update Data in Supabase PostgreSQL](https://github.com/Omarmdwasimuddin/Update-Data-in-Supabase-PostgreSQL)
 #### Class-32: [Delete Data from Supabase PostgreSQL Database](https://github.com/Omarmdwasimuddin/Delete-Data-from-Supabase-PostgreSQL-Database)
-#### Class-33: []()
+#### Class-33: [Filter & Search Data Using @Query()](https://github.com/Omarmdwasimuddin/Filter-Search-Data-Using-Query-)
 #### Class-34: []()
 #### Class-35: []()
 #### Class-36: []()
