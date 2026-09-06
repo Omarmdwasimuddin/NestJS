@@ -36,7 +36,7 @@
 #### Class-33: [Filter & Search Data Using @Query()](https://github.com/Omarmdwasimuddin/Filter-Search-Data-Using-Query-)
 #### Class-34: [NestJS REST API with SUPABASE CRUD](https://github.com/Omarmdwasimuddin/NestJS-REST-API-with-SUPABASE-CRUD)
 #### Class-35: [Supabase JWT Authentication with Login API](https://github.com/Omarmdwasimuddin/Supabase-JWT-Authentication-with-Login-API)
-#### Class-36: []()
+#### Class-36: [JWT Authentication with MongoDB](https://github.com/Omarmdwasimuddin/JWT-Authentication-with-MongoDB)
 #### Class-37: []()
 #### Class-38: []()
 #### Class-39: []()
