@@ -38,9 +38,10 @@
 #### Class-35: [Supabase JWT Authentication with Login API](https://github.com/Omarmdwasimuddin/Supabase-JWT-Authentication-with-Login-API)
 #### Class-36: [JWT Authentication with MongoDB](https://github.com/Omarmdwasimuddin/JWT-Authentication-with-MongoDB)
 #### Class-37: [Build Full GraphQL CRUD App with MongoDB & NestJS](https://github.com/Omarmdwasimuddin/Build-Full-GraphQL-CRUD-App-with-MongoDB-NestJS)
-#### Class-38: [Build Full CRUD App with GraphQL, Prisma & Neon DB](https://github.com/Omarmdwasimuddin/Build-Full-CRUD-App-with-GraphQL-Prisma-Neon-DB)
-#### Class-39: []()
-#### Class-40: [CRUD generator](https://github.com/Omarmdwasimuddin/CRUD-generator)
+#### Class-38: [Connect NestJ with Prisma and Neon (Prisma v7.10.0)](https://github.com/Omarmdwasimuddin/Connect-NestJS-with-Prisma-and-Neon)
+#### Class-39: [Build Full CRUD App with GraphQL, Prisma & Neon DB](https://github.com/Omarmdwasimuddin/Build-Full-CRUD-App-with-GraphQL-Prisma-Neon-DB)
+#### Class-40: []()
+#### Class-41: [CRUD generator](https://github.com/Omarmdwasimuddin/CRUD-generator)
 
 
 ---
