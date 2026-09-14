@@ -41,7 +41,7 @@
 #### Class-38: [Connect NestJ with Prisma and Neon (Prisma v7.10.0)](https://github.com/Omarmdwasimuddin/Connect-NestJS-with-Prisma-and-Neon)
 #### Class-39: [Connect NestJ with Prisma and Neon (Prisma v8)](https://github.com/Omarmdwasimuddin/Connect-NestJ-with-Prisma-and-Neon-Prisma-v8-)
 #### Class-40: [Build Full CRUD App with GraphQL, Prisma & Neon DB](https://github.com/Omarmdwasimuddin/Build-Full-CRUD-App-with-GraphQL-Prisma-Neon-DB)
-#### Class-41: []()
+#### Class-41: [Implement Rate Limiting Using Throttler](https://github.com/Omarmdwasimuddin/Implement-Rate-Limiting-Using-Throttler)
 #### Class-42: [CRUD generator](https://github.com/Omarmdwasimuddin/CRUD-generator)
 
 
