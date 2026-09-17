@@ -52,6 +52,7 @@
 #### [Authorization](https://github.com/Omarmdwasimuddin/NestJS-Authorization)
 #### [Encryption and Hashing](https://github.com/Omarmdwasimuddin/NestJS-Encryption-and-Hashing)
 #### [Helmet](https://github.com/Omarmdwasimuddin/NestJS-Helmet)
+#### [CORS](https://github.com/Omarmdwasimuddin/NestJS-CORS)
 #### [Rate Limiting](https://github.com/Omarmdwasimuddin/Rate-Limiting)
 
 ---
