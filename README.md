@@ -50,7 +50,7 @@
 ## Security
 #### [Authentication](https://github.com/Omarmdwasimuddin/NestJS-Authentication)
 #### [Authorization](https://github.com/Omarmdwasimuddin/NestJS-Authorization)
-#### [Encryption and Hashing]()
+#### [Encryption and Hashing](https://github.com/Omarmdwasimuddin/NestJS-Encryption-and-Hashing)
 #### [Rate Limiting](https://github.com/Omarmdwasimuddin/Rate-Limiting)
 
 ---
