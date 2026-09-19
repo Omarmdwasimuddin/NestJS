@@ -60,7 +60,7 @@
 
 ## Production
 #### [Pino logger](https://github.com/Omarmdwasimuddin/NestJS-Pino-Logger)
-#### [Zod Validator]()
+#### [Zod Validator](https://github.com/Omarmdwasimuddin/NestJS-Zod-Validator)
 
 ---
 
