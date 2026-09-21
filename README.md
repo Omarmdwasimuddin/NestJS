@@ -74,5 +74,6 @@
 #### [Next.js + NestJS Monorepo Project Setup](https://github.com/Omarmdwasimuddin/NextJS-NestJS-Project-Setup)
 #### [MongoDB Atlas Setup](https://github.com/Omarmdwasimuddin/mongodb-atlas)
 #### [Zero-Config Observability](https://github.com/Omarmdwasimuddin/Zero-Config-Observability)
+#### [NestJS Official Repo](https://github.com/nestjs)
 
 ---
