@@ -61,7 +61,7 @@
 ## Production
 #### [Pino logger](https://github.com/Omarmdwasimuddin/NestJS-Pino-Logger)
 #### [Zod Validation](https://github.com/Omarmdwasimuddin/NestJS-Zod-Validator)
-#### [Prisma error handle]()
+#### [Prisma error handle](https://github.com/Omarmdwasimuddin/NestJS-Prisma-error-handle)
 
 ---
 
