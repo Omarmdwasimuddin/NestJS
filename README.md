@@ -40,9 +40,10 @@
 #### Class-37: [Build Full GraphQL CRUD App with MongoDB & NestJS](https://github.com/Omarmdwasimuddin/Build-Full-GraphQL-CRUD-App-with-MongoDB-NestJS)
 #### Class-38: [Connect NestJ with Prisma and Neon (Prisma v7.10.0)](https://github.com/Omarmdwasimuddin/Connect-NestJS-with-Prisma-and-Neon)
 #### Class-39: [Connect NestJ with Prisma and Neon (Prisma v8)](https://github.com/Omarmdwasimuddin/Connect-NestJ-with-Prisma-and-Neon-Prisma-v8-)
-#### Class-40: [Build Full CRUD App with GraphQL, Prisma & Neon DB](https://github.com/Omarmdwasimuddin/Build-Full-CRUD-App-with-GraphQL-Prisma-Neon-DB)
-#### Class-41: [Implement Rate Limiting Using Throttler](https://github.com/Omarmdwasimuddin/Implement-Rate-Limiting-Using-Throttler)
-#### Class-42: [CRUD generator](https://github.com/Omarmdwasimuddin/CRUD-generator)
+#### Class-40: [Connect NestJS with Prisma and Supabase (Prisma v8)](https://github.com/Omarmdwasimuddin/Connect-NestJ-with-Prisma-and-Supabase-Prisma-v8-)
+#### Class-41: [Build Full CRUD App with GraphQL, Prisma & Neon DB](https://github.com/Omarmdwasimuddin/Build-Full-CRUD-App-with-GraphQL-Prisma-Neon-DB)
+#### Class-42: [Implement Rate Limiting Using Throttler](https://github.com/Omarmdwasimuddin/Implement-Rate-Limiting-Using-Throttler)
+#### Class-43: [CRUD generator](https://github.com/Omarmdwasimuddin/CRUD-generator)
 
 
 ---
