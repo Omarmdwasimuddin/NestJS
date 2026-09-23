@@ -62,6 +62,8 @@
 #### [Pino logger](https://github.com/Omarmdwasimuddin/NestJS-Pino-Logger)
 #### [Zod Validation](https://github.com/Omarmdwasimuddin/NestJS-Zod-Validator)
 #### [Prisma error handle](https://github.com/Omarmdwasimuddin/NestJS-Prisma-error-handle)
+##
+#### [Production Level Signup Login](https://github.com/Omarmdwasimuddin/NestJS-Production-Level-Signup-Login)
 
 ---
 
