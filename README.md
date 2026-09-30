@@ -64,6 +64,7 @@
 #### [Microservices](https://github.com/Omarmdwasimuddin/Microservices)
 #### [Redis](https://github.com/Omarmdwasimuddin/Redis)
 #### [MQTT](https://github.com/Omarmdwasimuddin/MQTT)
+#### [NATS](https://github.com/Omarmdwasimuddin/NATS)
 
 ---
 
