@@ -65,6 +65,7 @@
 #### [Redis](https://github.com/Omarmdwasimuddin/Redis)
 #### [MQTT](https://github.com/Omarmdwasimuddin/MQTT)
 #### [NATS](https://github.com/Omarmdwasimuddin/NATS)
+#### [RabbitMQ](https://github.com/Omarmdwasimuddin/RabbitMQ)
 
 ---
 
