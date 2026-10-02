@@ -77,6 +77,7 @@
 #### [Prisma error handle](https://github.com/Omarmdwasimuddin/NestJS-Prisma-error-handle)
 ##
 #### [NestJS Production-Level Authentication: Signup & Login](https://github.com/Omarmdwasimuddin/NestJS-Production-Level-Signup-Login)
+#### [NestJS Production-Level Roll-Base Authentication]()
 
 ---
 
